@@ -4251,5 +4251,12 @@
     "erc20": true,
     "symbol": "DYDX",
     "decimals": 18
+  },
+  "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa": {
+    "name": "Metronome",
+    "logo": "MET.svg",
+    "erc20": true,
+    "symbol": "MET",
+    "decimals": 18
   }
 }
